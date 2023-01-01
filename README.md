@@ -5,9 +5,13 @@ A set of simple homework assignments and a large already difficult contest.
 ## Tools
 
 * Posgresql
-* pgAdmin 4
-
+* [pgAdmin 4](https://www.pgadmin.org/download/)
+* [dbdiagram.io](https://dbdiagram.io)
+* [creately.com](https://creately.com/)
 
 ![](./doc/fed_sasky.jpg)
 
+![](db_actors.jpg)
+
+![](db_deals.jpg)
 
