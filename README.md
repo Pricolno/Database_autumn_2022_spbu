@@ -11,7 +11,4 @@ A set of simple homework assignments and a large already difficult contest.
 
 ![](./doc/fed_sasky.jpg)
 
-![](db_actors.jpg)
-
-![](db_deals.jpg)
 
