@@ -1,3 +1,5 @@
+# Задание №2 (Нормализация и проектирование)
+
 Задание состоит из трёх пунктов:
 
 * Нормализуйте таблицу до нормальной формы Бойса-Кодда: https://docs.google.com/spreadsheets/d/11eHjmb1OASTE4YibbyVMs4cQ3L5RWv9GI6I1PzGzWDM/edit?usp=sharing
